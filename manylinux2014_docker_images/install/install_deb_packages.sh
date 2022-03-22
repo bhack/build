@@ -59,6 +59,7 @@ apt-get install -y --no-install-recommends \
     python3-venv \
     rsync \
     sudo \
+    openssh-client \
     swig \
     unzip \
     vim \
